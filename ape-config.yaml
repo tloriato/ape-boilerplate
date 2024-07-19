@@ -1,0 +1,6 @@
+name: framework
+solidity:
+  version: 0.8.1
+test:
+  mnemonic: test test test test test test test test test test test junk
+  number_of_accounts: 5
